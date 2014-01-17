@@ -1,0 +1,25 @@
+{
+  "name": "react-app-controller",
+  "main": "index.js",
+  "version": "0.4.0",
+  "homepage": "https://github.com/bradens/react-app-controller",
+  "authors": [
+    "Andrey Popp <8mayday@gmail.com>,
+    "Braden Simpson <braden@uvic.ca>"
+  ],
+  "description": "React application controller",
+  "keywords": [
+    "react",
+    "controller",
+    "history",
+    "pushState"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

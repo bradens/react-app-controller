@@ -13,7 +13,7 @@
     "history",
     "pushState"
   ],
-  "devDependencies": {
+  "dependencies": {
     "semver": "~2.2.1",
     "jshint": "~2.3.0",
     "mocha": "1.x.x",

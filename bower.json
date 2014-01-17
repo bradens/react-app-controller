@@ -2,10 +2,9 @@
   "name": "react-app-controller",
   "main": "index.js",
   "version": "0.4.0",
-  "homepage": "https://github.com/bradens/react-app-controller",
+  "homepage": "https://github.com/andreypopp/react-app-controller",
   "authors": [
-    "Andrey Popp <8mayday@gmail.com>,
-    "Braden Simpson <braden@uvic.ca>"
+    "Andrey Popp <8mayday@gmail.com>
   ],
   "description": "React application controller",
   "keywords": [
